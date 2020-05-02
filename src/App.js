@@ -1,11 +1,12 @@
 import React, { PureComponent } from 'react';
 import './App.css';
-import sessions from './data/sessions.json';
+import Workouts from './components/workouts';
+import workoutData from './data/workouts.json';
 
 class App extends PureComponent {
   render() {
     return (
-      <LineGraph data={sessions} />
+      <Workouts workouts={workoutData} />
     );
   }
 }
