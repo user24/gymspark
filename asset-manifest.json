@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gymspark/static/css/main.36497136.chunk.css",
+    "main.js": "/gymspark/static/js/main.1177b245.chunk.js",
+    "main.js.map": "/gymspark/static/js/main.1177b245.chunk.js.map",
+    "runtime-main.js": "/gymspark/static/js/runtime-main.1de35f08.js",
+    "runtime-main.js.map": "/gymspark/static/js/runtime-main.1de35f08.js.map",
+    "static/js/2.a3543105.chunk.js": "/gymspark/static/js/2.a3543105.chunk.js",
+    "static/js/2.a3543105.chunk.js.map": "/gymspark/static/js/2.a3543105.chunk.js.map",
+    "index.html": "/gymspark/index.html",
+    "precache-manifest.60c3c3dbbeebb049fb9abe2abbc21334.js": "/gymspark/precache-manifest.60c3c3dbbeebb049fb9abe2abbc21334.js",
+    "service-worker.js": "/gymspark/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/gymspark/static/css/main.36497136.chunk.css.map",
+    "static/js/2.a3543105.chunk.js.LICENSE.txt": "/gymspark/static/js/2.a3543105.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1de35f08.js",
+    "static/js/2.a3543105.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.1177b245.chunk.js"
+  ]
+}
