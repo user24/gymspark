@@ -1,10 +1,11 @@
 import React, { PureComponent } from 'react';
 import './App.css';
+import sessions from './data/sessions.json';
 
 class App extends PureComponent {
   render() {
     return (
-      <div>app.</div>
+      <LineGraph data={sessions} />
     );
   }
 }
